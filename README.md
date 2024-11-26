@@ -25,6 +25,6 @@ Load Balancer : A load balancer is a system that distributes incoming network or
 
 cache  :  A cache is a high-speed storage layer that stores copies of frequently accessed data. This allows faster data retrieval compared to fetching the data from the original source, such as a database or a remote server.
 
-
+.
       
                  
